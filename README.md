@@ -16,7 +16,7 @@ Type a message, press a button, and see your text echoed back with a playful “
 ---
 
 ## 📹 Demo Video
-🎥 [Watch the Demo](https://vimeo.com/1110737640/c7b8ede5a6?ts=69610&share=copy))  
+🎥 [Watch the Demo](https://vimeo.com/1110737640/c7b8ede5a6?ts=69610&share=copy)  
 <img width="392" height="840" alt="image" src="https://github.com/user-attachments/assets/6dd58bca-5db1-412f-9a9d-6ba7d29b7ed8" />
 
 <img width="391" height="828" alt="image" src="https://github.com/user-attachments/assets/8cb2e137-b35e-4cc0-ae24-c38bbeab45c5" />
