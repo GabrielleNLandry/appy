@@ -43,7 +43,7 @@ Make sure you have installed:
 Clone the repository:
 ```bash
 git clone https: (https://github.com/GabrielleNLandry/appy.git)
-cd YOUR-REPO
+cd appy
 ```
 Run the Emulator:
 ```bash
