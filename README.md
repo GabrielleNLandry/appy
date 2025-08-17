@@ -44,4 +44,8 @@ Clone the repository:
 ```bash
 git clone https: (https://github.com/GabrielleNLandry/appy.git)
 cd YOUR-REPO
+```
+Run the Emulator:
+```bash
+npx react-native run-android
 
