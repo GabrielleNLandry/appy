@@ -55,6 +55,7 @@ function AppContent() {
   const [query, setQuery] = useState<string>('');
 
   const hint = useMemo(() => {
+   
     const len = query.trim().length;
     if (len === 0) return 'Type a wish, name, plan, or mood…';
     if (len < 4) return 'Hmm… give the cosmos a bit more to work with.';
